@@ -1,0 +1,104 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol
+{
+    list-style: none;
+}
+body
+{
+    background: #bfbfbf url("image/background(1).jpg") repeat-x;
+    font-family: Arial, sans-serif;
+
+
+}
+header
+{
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #000;
+    text-transform: uppercase;
+
+}
+#actrices
+{
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+#actrices ul li
+{
+}
+.blackcolor
+{
+    width: 140px;
+    height:500px;
+    cursor: pointer;
+    background: url("image/bw-image(1).jpg") no-repeat;
+    opacity: 0,7;
+}
+.color
+{
+    width: 140px;
+    height:500px;
+    cursor: pointer;
+    background: url("image/color-image\(1\).jpg") no-repeat;
+}
+#actrice2 div
+{
+    background-position: -140px 0px;
+}
+#actrice3 div
+{
+    background-position: -280px 0px;
+}
+#actrice4 div
+{
+    background-position: -420px 0px;
+}
+#actrice5 div
+{
+    background-position: -560px 0px;
+}
+.text
+{
+    width: 140px;
+    height: 400px;
+    background: #fff;
+    padding: 10px;
+    font-size: 12px;
+    color: #000;
+}
+.text h2
+{
+    font-size: 20px;
+    text-transform: uppercase;
+    padding-top: 20px;
+    text-align: center;
+    color: #333;
+    text-transform: uppercase;
+}
+.text h3
+{
+    font-size: 15px;
+    text-transform: uppercase;
+    padding-top: 10px;
+    text-align: center;
+    color: #333;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 5px;
+    background: #dc1010;
+}
+.text p
+{
+    padding-top: 15px;
+    text-align: center;
+    color: #333;
+}
