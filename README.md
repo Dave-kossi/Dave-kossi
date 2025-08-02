@@ -1,13 +1,13 @@
 # 👋 Bonjour, je suis Kossi NOUMAGNO
 
 🎓 Étudiant en Master 1 en Ingénierie Mathématique et Data Science à l’Université de Haute Alsace Mulhouse (France)  
-📊 En formation certifiée Google Data Analyst (Coursera)  
+📊 Certifié Google Data Analyst (Coursera)  
 💻 Passionné par la Data Science, les mathématiques appliquées, la conception des agents IA
 
 ---
 
 ## 🔍 Ce qui m'intéresse
-- Analyse de données (Python, Pandas, SQL, Excel)
+- Analyse de données (Python,R, Pandas, SQL, Excel)
 - Machine Learning appliqué (scikit-learn, Kaggle)
 - Projets éducatifs basés sur l’IA
 - Modélisation mathématique (chaînes de Markov, statistiques, simulations)
