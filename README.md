@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Projets récents
-- 📈 [Analyse prédictive Titanic – Kaggle](https://www.kaggle.com/) *(à ajouter si disponible)*
+- 📈 [Analyse prédictive Titanic – Kaggle](https://www.kaggle.com/) 
 - 🧠 Simulation de chaînes de Markov appliquée au jeu Kruskal Count
 - 📚 Développement d’une application de révision intelligente pour élèves en classes d'examen (Python + Gradio)
 
