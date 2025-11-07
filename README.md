@@ -8,17 +8,17 @@
 
 ## 🔍 Ce qui m'intéresse
 - Analyse de données (Python,R, Pandas, SQL, Excel)
-- Machine Learning appliqué (scikit-learn, Kaggle)
+- Machine Learning
 - Projets éducatifs basés sur l’IA
-- Modélisation mathématique (chaînes de Markov, statistiques, simulations)
-- E-commerce & finance orientés data
+- Modélisation mathématique
+- E-commerce, Assurance et finance orientés data
 
 ---
 
 ## 🚀 Projets récents
-- 📈 [Analyse prédictive Titanic – Kaggle](https://www.kaggle.com/) 
-- 🧠 Simulation de chaînes de Markov appliquée au jeu Kruskal Count
-- 📚 Développement d’une application de révision intelligente pour élèves en classes d'examen (Python + Gradio)
+- **Maintenance prédictive** des équipements industriels pour une usine manufacturière
+- **Application intelligente** de gestion des clients à risque pour une compagnie d'assurance
+- **Outil d'audit et de nettoyage** de données pour l'assurance qualité des jeux de données
 
 ---
 
@@ -39,7 +39,7 @@
 ## 📫 Me contacter
 - ✉️ noumagnokossi0@gmail.com  
 - 📞 +33 7 45 97 43 82  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ton-profil) *(mets le lien)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ton-profil) *
 
 ---
 
