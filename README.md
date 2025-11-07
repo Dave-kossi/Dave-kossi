@@ -30,9 +30,11 @@
 ---
 
 ## 🛠️ Compétences techniques
-- **Langages** : Python, SQL, R, HTML/CSS, JavaScript
-- **Bibliothèques** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Gradio, Streamlit
-- **Outils** : Git/GitHub, Excel, Tableau, VSCode, Google Colab, Jupyter
+- **Data Analysis** : Python, Pandas, NumPy, SQL, R
+- **Machine Learning** : Scikit-learn, TensorFlow, modèles prédictifs
+- **Visualisation & BI** : Power BI, Tableau, Matplotlib, Seaborn, Plotly, Streamlit, Gradio
+- **LLM & IA Générative** : LangChain, Hugging Face, OpenAI, architectures RAG
+- **Développement & Outils** : JavaScript, Git, VSCode, Jupyter, Excel/Google Sheet
 
 ---
 
