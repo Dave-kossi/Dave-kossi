@@ -31,10 +31,10 @@
 
 ## 🛠️ Compétences techniques
 - **Data Analysis** : Python, Pandas, NumPy, SQL, R
-- **Machine Learning** : Scikit-learn, TensorFlow, modèles prédictifs
+- **Machine Learning** : Scikit-learn, modèles prédictifs
 - **Visualisation & BI** : Power BI, Tableau, Matplotlib, Seaborn, Plotly, Streamlit, Gradio
-- **LLM & IA Générative** : LangChain, Hugging Face, OpenAI, architectures RAG
-- **Développement & Outils** : JavaScript, Git, VSCode, Jupyter, Excel/Google Sheet
+- **LLM & IA Générative** : LangChain, Hugging Face, architectures RAG
+- **Développement & Outils** : Git, VSCode, Jupyter, Excel/Google Sheet, BigQuery
 
 ---
 
