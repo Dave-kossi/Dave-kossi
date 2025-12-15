@@ -45,6 +45,6 @@
 
 ---
 
-> 🚧 En construction continue : je documente ici mon apprentissage et mes projets pour devenir un professionnel de la Data Science.
+### En construction continue : je documente ici mon apprentissage et mes projets pour devenir un professionnel de la Data Science.
 
---->
+---
