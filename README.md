@@ -2,7 +2,7 @@
 
 🎓 Étudiant en Master 1 en Ingénierie Mathématique et Data Science à l’Université de Haute Alsace Mulhouse (France)  
 📊 Certifié Google Data Analyst (Coursera)  
-💻 Passionné par la Data Science, les mathématiques appliquées, la conception des agents IA
+💻 Passionné par la Data Science, les mathématiques appliquées et l`IA
 
 ---
 
