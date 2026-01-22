@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Kossi NOUMAGNO
+# Bonjour, je suis Kossi NOUMAGNO
 
 🎓 Étudiant en Master 1 en Ingénierie Mathématique et Data Science à l’Université de Haute Alsace Mulhouse (France)  
 📊 Certifié Google Data Analyst (Coursera)  
