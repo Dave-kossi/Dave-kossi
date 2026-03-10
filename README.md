@@ -41,7 +41,7 @@
 ## 📫 Me contacter
 - ✉️ noumagnokossi0@gmail.com  
 - 📞 +33 7 45 97 43 82  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ton-profil) *
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kossi-noumagno) 
 
 ---
 
